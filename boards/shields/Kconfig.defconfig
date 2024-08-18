@@ -1,4 +1,4 @@
-if TULIP64_LEFT
+if SHIELD_TULIP64_LEFT
 
 config ZMK_KEYBOARD_NAME
     default "Tulip64"
