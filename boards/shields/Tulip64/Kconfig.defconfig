@@ -1,14 +1,14 @@
-if SHIELD_TULIP62_LEFT
+if SHIELD_TULIP64_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Tulip62"
+    default "Tulip64"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
 
-if SHIELD_TULIP62_LEFT || SHIELD_TULIP62_RIGHT
+if SHIELD_TULIP64_LEFT || SHIELD_TULIP64_RIGHT
 
 config ZMK_SPLIT
     default y
