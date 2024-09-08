@@ -25,7 +25,7 @@
 &kp TAB   &kp Q  &kp W  &kp E    &kp R    &kp T                                                 &kp Y  &kp U    &kp I     &kp O   &kp P    &kp MINUS
 &kp LCTRL &kp A  &kp S  &kp D    &kp F    &kp G                                                 &kp H  &kp J    &kp K     &kp L   &kp SEMI &kp SQT
 &kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp B                                                 &kp N  &kp M    &kp COMMA &kp DOT &kp FSLH &kp RSHFT
-                 &kp LALT &kp LGUI &mo 1        &kp LBKT  &kp RBKT          &kp LALT &kp LSHIFT        &mo 2  &kp BSPC &kp RGUI
+                 &kp LALT &kp LGUI &tog mo 1        &kp LBKT  &kp RBKT          &kp LALT &kp LSHIFT        &tog mo 2  &kp BSPC &kp RGUI
                                                 &kp SPACE &kp LCTRL         &kp RETURN &kp BSPC  
             >;
 
@@ -45,7 +45,7 @@
 &kp F1     &kp F2           &kp F3            &kp F4            &kp F5       &kp F6                       &kp F7    &kp F8    &kp F9    &kp F10   &kp F11   &kp F12
 &kp GRAVE  &kp EXCL         &kp AT            &kp HASH          &kp DOLLAR   &kp PRCNT                    &kp CARET &kp AMPS  &kp ASTRK &kp LPAR  &kp RPAR  &kp TILDE
 &kp LSHFT &kp Z  &kp X  &kp C    &kp V    &kp B                                                 &kp N  &kp M    &kp COMMA &kp DOT &kp FSLH &kp RSHFT
-                 &kp LALT &kp LGUI &mo 1        &kp LBKT  &kp RBKT          &kp LALT &kp LSHIFT        &mo 2  &kp BSPC &kp RGUI
+                 &kp LALT &kp LGUI &tog mo 1        &kp LBKT  &kp RBKT          &kp LALT &kp LSHIFT        &tog mo 2  &kp BSPC &kp RGUI
                                                 &kp SPACE &kp LCTRL         &kp RETURN &kp BSPC  
             >;
 
@@ -64,7 +64,7 @@
 &kp T     &kp TAB   &kp Q  &kp W  &kp E    &kp R                                                    &kp Y  &kp U    &kp I     &kp O   &kp P    &kp MINUS
 &kp G     &kp LCTRL &kp A  &kp S  &kp D    &kp F                                                &kp H  &kp J    &kp K     &kp L   &kp SEMI &kp SQT
  &kp B    &kp LSHFT &kp Z  &kp X  &kp C    &kp V                                                &kp N  &kp M    &kp COMMA &kp DOT &kp FSLH &kp RSHFT
-                 &kp LALT &kp LGUI &mo 1        &kp LBKT  &kp RBKT          &kp LALT &kp LSHIFT       &mo 2  &kp BSPC &kp RGUI
+                 &kp LALT &kp LGUI &tog mo 1        &kp LBKT  &kp RBKT          &kp LALT &kp LSHIFT       &tog mo 2  &kp BSPC &kp RGUI
                                                 &kp SPACE &kp LCTRL         &kp RETURN &kp BSPC  
             >;
 
