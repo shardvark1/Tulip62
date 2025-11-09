@@ -1,0 +1,11 @@
+file_format: "1"
+id: Tulip64
+name: Tulip64
+type: shield
+url: https://github.com/shardvark1/tulip64final
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - Tulip64_left
+  - Tulip64_right
